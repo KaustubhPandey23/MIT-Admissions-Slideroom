@@ -1,4 +1,4 @@
-# MIT-Admissions-Slideroom-
+# MIT Admissions(Slideroom)
 For my 2022-23 undergraduate first year application (Creative Maker Portfolio), Application Reference number: 829395924
 
 
@@ -8,6 +8,6 @@ The gaming engine was a work in progress and worked briefly. Many concepts in it
 
 The linear equations java file is the one submitted in the slideroom pdf.
 
-Please note that I have temporarily stopped coding to focus on other parts of my life. The last I coded was the LUDO game in 2019
+Please note that I have temporarily stopped coding to focus on other parts of my life. The last I coded was the LUDO game in 2019.
 
 Thankyou for your time! Admissions Office
